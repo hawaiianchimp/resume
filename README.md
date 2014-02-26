@@ -1,13 +1,12 @@
 
 
-
 Sean Thomas Burke    
 =========
 ###### (949) 371-9225 | [sean@seantburke.com]	
 ###### [github.com/hawaiianchimp]
 
-_________
 ## Education 
+========
    
 
 > **University of California, San Diego**		- *Expected 2015*
@@ -17,8 +16,8 @@ _________
 > * BS in Electrical Engineering - **3.2**
 > * BS in Business Information Management - **3.9**
 
------
 ## Tech Skills
+========
 
 > Expert
 > * Java, PHP, MySQL, HTML, JavaScript, CSS, jQuery, Heroku, git
@@ -26,8 +25,8 @@ _________
 > Proficient
 > * Python, Objective-C, C++, Node.js, svn
 
-----
 ## Experience
+========
 
 >**Software Security Intern** - *Summer 2013*
 
@@ -42,8 +41,9 @@ _________
 > * Performed quality assurance testing on in flight entertainment systems
 > * Collaborated with AirCanda and Japan Airline customers to ensure quality
 
-----------
 ##Projects
+========
+
 ###[ESCan] 
 > Web App - *Feb 2012 – 2014*
 > *	Developed ESCan for a $40k budgeted event with 1200 participants
@@ -56,8 +56,10 @@ _________
 > *	Used Objective-C, JSON Restful API from www.mygasfeed.com
 > *	Available in the App Store
 
-----
+
 ## Hackathons
+========
+
 ###**Photo Hack Day 3** 
 
 > Dropbox & Facebook - *June 2012*
@@ -75,8 +77,9 @@ _________
 > *	Developed an image tool to superimpose pictures into a postcard
 > *	Won 2nd and 3rd place from Sincerely and FlashFoto
 
-----
+
 ##Leadership
+========
 
 * UCI Graduation Commencement Speaker	2013
 * Honors Informatics & Computer Science Program	2012-2013
