@@ -1,8 +1,7 @@
-
 Sean Thomas Burke    
 =========
 ###### (949) 371-9225 | [sean@seantburke.com]	
-###### [github.com/hawaiianchimp]
+###### [seantburke.com]
 
 ## Education 
 > **University of California, San Diego**		- *Expected 2015*
