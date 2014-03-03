@@ -75,6 +75,7 @@ Facebook	- *Mar 2013*
 * Honors Informatics & Computer Science Program	2012-2013
 * Resident Advisor – UCI Housing Middle Earth	2012-2013
 * President – Engineering Student Council	2011-2012
+* Sigma Nu Fraternity 				2008-2013
 
 [GasBro]:http://www.gasbro.com
 [ESCan]:http://esc.eng.uci.edu/escan
